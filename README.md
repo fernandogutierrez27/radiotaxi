@@ -1,2 +1,2 @@
 # radiotaxi
-aplicacion web para central de radiotaxi
+web app para empresa
